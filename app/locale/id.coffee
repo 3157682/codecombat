@@ -3,11 +3,11 @@ module.exports = nativeDescription: "Bahasa Indonesia", englishDescription: "Ind
 #    slogan: "Learn to Code by Playing a Game"
     no_ie: "Maaf, CodeCombat tidak bisa dijalankan pada Internet Explorer 8 dan sebelumnya" # Warning that only shows up in IE8 and older
     no_mobile: "Maaf. CodeCombat tidak dibuat untuk perangkat mobile" # Warning that shows up on mobile devices
-    play: "Play" # The big play button that opens up the campaign view.
+    play: "bermain" # The big play button that opens up the campaign view.
     old_browser: "Uh oh, Maaf. Versi broser anda terlalu lama " # Warning that shows up on really old Firefox/Chrome/Safari
     old_browser_suffix: "Anda bisa mencoba, tapi mungkin tidak akan berjalan."
 #    ipad_browser: "Bad news: CodeCombat doesn't run on iPad in the browser. Good news: our native iPad app is awaiting Apple approval."
-    campaign: "Campaign"
+    campaign: "Kampanye"
     for_beginners: "Pemula"
     multiplayer: "Multiplayer" # Not currently shown on home page
     for_developers: "Developers" # Not currently shown on home page.
@@ -34,7 +34,7 @@ module.exports = nativeDescription: "Bahasa Indonesia", englishDescription: "Ind
 
   modal:
     close: "Tutup"
-    okay: "Okay"
+    okay: "baik"
 
   not_found:
     page_not_found: "Alamat tidak ditemukan"
